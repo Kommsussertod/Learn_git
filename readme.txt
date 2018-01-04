@@ -5,4 +5,4 @@ mark the broken feature1
 fix feature1234
 a  feature (finished)
 develop second feature 
-develop second feature day 2
+finish the second feature
