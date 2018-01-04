@@ -3,4 +3,5 @@ Git is a free software distributed under the GPL.
 a lot of modify
 mark the broken feature1
 fix feature1234
-develop a new feature (finished)
+a  feature (finished)
+develop second feature
